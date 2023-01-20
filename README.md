@@ -1,2 +1,10 @@
-# Php-Redeem-Point-System
-I'm use Bootstarp, Sweetalert | Php pdo mysql
+# PHP PDO Redeem
+redeem code get point
+## Sweetalert sww,err,q
+```php
+<?php
+  require_once('alertmsg.php');
+  
+  alertmsg('sww', 'title', 'description');
+?>
+```
