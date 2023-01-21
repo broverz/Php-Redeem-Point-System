@@ -2,8 +2,8 @@
     $time = time();
     $time_check = $time - 1800;
 
-    $sitekeygg = '6Lccbg4kAAAAABhS70V3ObOsAKpz68u816H6zye4';
-    $secretkeygg = '6Lccbg4kAAAAAMIPIN_lLrOwH5oFmQlRQjP4m9Od';
+    $sitekeygg = ''; // recaptcha site key
+    $secretkeygg = ''; // recaptcha screct key
 
     define("N", "root");
     define("H", "127.0.0.1");
