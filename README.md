@@ -1,5 +1,5 @@
 # PHP PDO Redeem
-redeem code get point
+import flie Main.sql in Phpmyadmin
 ## Sweetalert sww,err,q
 ```php
 <?php
